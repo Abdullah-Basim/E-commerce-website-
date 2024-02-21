@@ -1,0 +1,2 @@
+C:\Users\ifaiz\source\repos\temp2\temp2\obj\Debug\temp2.csproj.AssemblyReference.cache
+C:\Users\ifaiz\source\repos\temp2\temp2\obj\Debug\temp2.csproj.CoreCompileInputs.cache

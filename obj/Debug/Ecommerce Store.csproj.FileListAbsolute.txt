@@ -1,0 +1,2 @@
+C:\Users\faiza\source\repos\Ecommerce Store\Ecommerce Store\obj\Debug\Ecommerce Store.csproj.AssemblyReference.cache
+C:\Users\faiza\source\repos\Ecommerce Store\Ecommerce Store\obj\Debug\Ecommerce Store.csproj.CoreCompileInputs.cache
